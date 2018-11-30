@@ -9,8 +9,9 @@
 6. To keep SSH session alive to your external servers, copy ssh_config as ~/.ssh/config. On Mac, you will lose session when laptop is asleep or shutdown.
 
 ## Vim configs
-1. Copy file as ~/.vimrc.
-2. Uncomment the last line if you want to see white characters similar to Sublime Text.
+1. The vimrc.simple is without [Vundle](https://github.com/VundleVim/Vundle.vim). vimrc.plugin is with Vundle and few plugins installed that I found useful.
+2. Copy file as ~/.vimrc.
+3. Uncomment the last line in vimrc.simple if you want to see white characters similar to Sublime Text.
 
 ## iTerm
 1. This terminal emulator is far far superior to the inbuilt Terminal on MAC. Can have unlimited scroll history
