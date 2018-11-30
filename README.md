@@ -10,8 +10,9 @@
 
 ## Vim configs
 1. The vimrc.simple is without Vundle. vimrc.plugin is with [Vundle](https://github.com/VundleVim/Vundle.vim) and few plugins installed that I found useful.
-2. Copy file as ~/.vimrc.
-3. Uncomment the last line in vimrc.simple if you want to see white characters similar to Sublime Text.
+2. [VimAwesome](https://vimawesome.com/) is a useful site to discover new vim plugins.
+3. Copy file as ~/.vimrc.
+4. Uncomment the last line in vimrc.simple if you want to see white characters similar to Sublime Text.
 
 ## iTerm2
 1. [iTerm2](https://www.iterm2.com/) is a terminal emulator that is far far superior to the inbuilt Terminal on MAC. Can have unlimited scroll history
